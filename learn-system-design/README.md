@@ -4,7 +4,6 @@ This is a collection of resources to learn system design. It is a work in progre
 
 ## What is System Design?
 
-
 ## System Design Procedure
 
 This describes the steps to be followed to design a system. The procedure is as follows:
@@ -30,3 +29,8 @@ This describes the steps to be followed to design a system. The procedure is as 
 4. Wrap UP
     1. Review Design
     2. Conclusion
+
+## Examples
+
+- [URL Shortener](markdown/url-shortener.md)
+- [Digital Wallet](markdown/digital-wallet.md)
