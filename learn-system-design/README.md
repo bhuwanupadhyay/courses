@@ -7,7 +7,7 @@ This is a collection of resources to learn system design. It is a work in progre
 
 ## System Design Procedure
 
-System design procedure is a process of designing a system. This describes the steps to be followed to design a system. The procedure is as follows:
+This describes the steps to be followed to design a system. The procedure is as follows:
 
 1. Understand the Problem and Design Scope
     1. Know your use cases
