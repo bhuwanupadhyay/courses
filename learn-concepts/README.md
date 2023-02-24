@@ -4,4 +4,5 @@ This is a collection of resources to learn various software development concepts
 
 ## Concepts
 
-1. [Modularity](markdown/modularity.md)
+- [Modularity](markdown/modularity.md)
+- [Architecture Characteristics](markdown/architecture-characteristics.md)
