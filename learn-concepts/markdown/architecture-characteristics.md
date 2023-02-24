@@ -22,3 +22,14 @@ Typically, the architecture of a system is described in terms of the following c
   ```
 - For example, if the system is available for 99.9% of the time, then the availability of the system is 99.9%.
 
+
+## Recoverability
+
+- Recoverability is the ability of the system to recover from failures.
+- Recoverability is measured in terms of the percentage of time that the system is able to recover from failures.
+- Recoverability is also known as fault tolerance or resiliency or robustness or survivability.
+
+### How to measure continuity?
+
+
+
