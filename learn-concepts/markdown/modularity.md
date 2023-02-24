@@ -23,3 +23,11 @@ Ranges of cohesion measures (best to worst):
 - Temporal cohesion
 - Logical cohesion
 - Coincidental cohesion
+
+## Coupling
+
+Coupling refers to the extent to which the parts of a module depend on each other.
+
+## Connascence
+
+Connascence refers to the extent to which the parts of a module are aware of each other.

@@ -14,11 +14,10 @@ This describes the steps to be followed to design a system. The procedure is as 
     3. Functional requirements
     4. Estimation and Calculation
 2. Propose High-Level Design and Negotiate
-    1. Business Knowledge 101
-    2. High-Level Design
-    3. API Design
-    4. Data Models
-    5. Algorithms
+    1. High-Level Design
+    2. API Design
+    3. Data Models
+    4. Algorithms
 3. Design Deep Dive
     1. Performance
     2. Scalability
