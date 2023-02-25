@@ -1,4 +1,4 @@
-## API Key
+# API Key
 
 API Key is a unique identifier that is used to authenticate a client application.
 
